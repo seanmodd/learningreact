@@ -1,8 +1,9 @@
+import { Heading, Text, VStack } from '@chakra-ui/layout';
 import MyComponent from '../components/MyComponent';
 
 const newsean = () => (
-  <div>
-    <MyComponent />
-  </div>
+  <VStack w="100%" justify="center">
+    <MyComponent name="Sean" />
+  </VStack>
 );
 export default newsean;
