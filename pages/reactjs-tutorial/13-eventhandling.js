@@ -1,6 +1,7 @@
+//! Level 5/10 Difficulty!
+
 import { Button } from '@chakra-ui/button';
 import { VStack } from '@chakra-ui/layout';
-import React from 'react';
 
 export default () => {
   function clickHandler() {

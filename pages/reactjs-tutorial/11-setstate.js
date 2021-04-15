@@ -1,3 +1,5 @@
+//! Level 7/10 Difficulty!
+
 import { Button } from '@chakra-ui/button';
 import { Flex, Heading, Text, VStack } from '@chakra-ui/layout';
 import { Component } from 'react';
